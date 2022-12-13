@@ -11,5 +11,6 @@ Most of our stuff is currently private, but will be made open source when it get
 - Caramel Client: A Brick Hill client made in godot
 - CSHill: A Brick Hill server written in C# and .NET (Name will probably change)
 - A mmorpg game for Brick Hill
+- We also have alot of other game ideas that might become something someday
 
-	<sub>We are a bit lazy so these might take quite a while to come out :trollface:</sub>
+<sub>We are a bit lazy so these might take quite a while to come out :trollface:</sub>
