@@ -14,4 +14,4 @@ Most of our stuff is currently private, but will be made open source when it get
 - We also have alot of other game ideas that might become something someday
 
 <sub>We are a bit lazy so these might take quite a while to come out :trollface:</sub>
-yek is cunt
+<p>yek is cunt</p>
