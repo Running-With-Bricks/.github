@@ -4,7 +4,7 @@
 <h3 align="center">Running With Bricks</h3>
 
 ### Description
-We makes games and software.
+We make games and software.
 
 Most of our stuff is currently private, but will be made open source when it gets to a usable stage!
 
