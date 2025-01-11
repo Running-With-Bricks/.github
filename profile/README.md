@@ -10,10 +10,6 @@ Most of our stuff is currently private, but will be made open source when it get
 
 ### What we currently have in the works:
 - SandPile: A social platform to make games using Brick Hill's legacy client and to socialize with people ([Website](https://sandpile.xyz))
-- Brick Stacker: A Brick Hill workshop written in C++ and OpenGL ([Source](https://github.com/Running-With-Bricks/Brick-Stacker-OpenGL))
-- CSHill: A Brick Hill server written in C# and .NET (Name will probably change)
-- BrickScape: A MMORPG game for Brick Hill
-- We also have alot of other game ideas that might become something someday
 
 <sub>We are a bit lazy so these might take quite a while to come out :trollface:</sub>
 
